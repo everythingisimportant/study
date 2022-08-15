@@ -17,4 +17,5 @@
 # f.close()
 # newFile.close()
 
+# Called from script.py
 print('Hello')
